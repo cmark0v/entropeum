@@ -2,7 +2,7 @@
 trash/
 cache/
 out/
-
+lib/forge-std/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*
